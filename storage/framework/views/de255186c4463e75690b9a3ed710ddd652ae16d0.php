@@ -1,0 +1,1 @@
+<?php /**PATH F:\Todos\resources\views/Todos/todos.blade.php ENDPATH**/ ?>
